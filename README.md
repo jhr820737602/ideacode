@@ -1,0 +1,2 @@
+# ideacode
+idea仓库
